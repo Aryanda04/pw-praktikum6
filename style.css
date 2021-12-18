@@ -1,0 +1,89 @@
+.navbar-brand {
+  color: #000;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 700;
+}
+svg {
+  display: block;
+  margin: auto;
+}
+table {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+}
+.mid_table {
+  margin: 25px 0;
+  padding: 12px 15px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #acffe6;
+}
+
+#button td input {
+  width: 100%;
+}
+body {
+  background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+}
+.styled-table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: gilroy;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.tabele_atas {
+  background-color: #ffffff;
+}
+.styled-table thead tr {
+  background-color: #146e53;
+  color: hsl(0, 0%, 6%);
+  text-align: center;
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+  border-color: #96d4d4;
+}
+
+.styled-table tbody tr {
+  border-bottom: 1px solid #020202;
+  background-color: #81ecec;
+  border-color: #245e5e;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #00cec9;
+}
+
+.styled-table tbody tr:last-of-type {
+  border-bottom: 2px solid #0f0f0f;
+}
+
+.column {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column h2 {
+  margin-top: 20px;
+  text-align: left;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.column h1 {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
